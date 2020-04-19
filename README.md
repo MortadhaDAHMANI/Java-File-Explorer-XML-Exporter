@@ -18,5 +18,5 @@ If this project help you, you can give me a tip ;)
 * Initial Release : 08 February 2011
 
 ### License
-* Java-File-Explorer-XML-Exporter is distributed under the **LGPL** version 3 license.
+* _Java-File-Explorer-XML-Exporter_ is distributed under the **LGPL** version 3 license.
 
